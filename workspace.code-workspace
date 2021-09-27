@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\ADV-C89-student"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ADV-C89-student"
+	}
+}
